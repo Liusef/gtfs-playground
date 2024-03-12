@@ -1,0 +1,13 @@
+[
+  {
+    "feed_publisher_name": "Bay Area Rapid Transit",
+    "feed_publisher_url": "http://www.bart.gov",
+    "feed_lang": "en",
+    "default_lang": null,
+    "feed_start_date": "20220214",
+    "feed_end_date": "20220911",
+    "feed_version": "62",
+    "feed_contact_email": null,
+    "feed_contact_url": null
+  }
+]

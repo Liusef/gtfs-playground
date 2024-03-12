@@ -1,0 +1,115 @@
+{
+  "header": {
+    "gtfs_realtime_version": "1.0",
+    "incrementality": 0,
+    "timestamp": 1709278709
+  },
+  "entity": [
+    {
+      "id": "BSA_272158",
+      "is_deleted": null,
+      "trip_update": null,
+      "vehicle": null,
+      "alert": {
+        "active_period": [],
+        "informed_entity": [
+          {
+            "agency_id": "BART",
+            "route_id": null,
+            "route_type": null,
+            "trip": null,
+            "stop_id": null,
+            "direction_id": null
+          }
+        ],
+        "cause": null,
+        "effect": null,
+        "url": {
+          "translation": [
+            {
+              "text": "http://www.bart.gov/schedules/advisories",
+              "language": "en-US"
+            }
+          ]
+        },
+        "header_text": {
+          "translation": [
+            {
+              "text": "BART.gov Alert",
+              "language": "en-US"
+            }
+          ]
+        },
+        "description_text": {
+          "translation": [
+            {
+              "text": "BART is recovering from an earlier problem. Trains are not stopping at Bay Fair Station. ",
+              "language": "en-US"
+            }
+          ]
+        },
+        "tts_header_text": null,
+        "tts_description_text": null,
+        "severity_level": null,
+        "image": null,
+        "image_alternative_text": null,
+        "cause_detail": null,
+        "effect_detail": null
+      },
+      "shape": null
+    },
+    {
+      "id": "BSA_271087",
+      "is_deleted": null,
+      "trip_update": null,
+      "vehicle": null,
+      "alert": {
+        "active_period": [],
+        "informed_entity": [
+          {
+            "agency_id": "BART",
+            "route_id": null,
+            "route_type": null,
+            "trip": null,
+            "stop_id": null,
+            "direction_id": null
+          }
+        ],
+        "cause": null,
+        "effect": null,
+        "url": {
+          "translation": [
+            {
+              "text": "http://www.bart.gov/schedules/advisories",
+              "language": "en-US"
+            }
+          ]
+        },
+        "header_text": {
+          "translation": [
+            {
+              "text": "BART.gov Alert",
+              "language": "en-US"
+            }
+          ]
+        },
+        "description_text": {
+          "translation": [
+            {
+              "text": "BART is running trains at slower speeds due to wet weather. Please watch your step on wet stairways and platforms. Use our Trip Planner and check Real Time Departures on the BART official app or bart.gov ",
+              "language": "en-US"
+            }
+          ]
+        },
+        "tts_header_text": null,
+        "tts_description_text": null,
+        "severity_level": null,
+        "image": null,
+        "image_alternative_text": null,
+        "cause_detail": null,
+        "effect_detail": null
+      },
+      "shape": null
+    }
+  ]
+}

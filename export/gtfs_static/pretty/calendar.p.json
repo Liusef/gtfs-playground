@@ -1,0 +1,122 @@
+{
+  "2022_02_14-SA20-Saturday-01": {
+    "service_id": "2022_02_14-SA20-Saturday-01",
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 1,
+    "sunday": 0,
+    "start_date": "20220219",
+    "end_date": "20220910"
+  },
+  "2022_02_14-DX19-Weekday-01": {
+    "service_id": "2022_02_14-DX19-Weekday-01",
+    "monday": 1,
+    "tuesday": 1,
+    "wednesday": 1,
+    "thursday": 1,
+    "friday": 1,
+    "saturday": 0,
+    "sunday": 0,
+    "start_date": "20220214",
+    "end_date": "20220909"
+  },
+  "2022_02_14-SU-MVS-Sunday-25": {
+    "service_id": "2022_02_14-SU-MVS-Sunday-25",
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 0,
+    "sunday": 1,
+    "start_date": "20220220",
+    "end_date": "20220905"
+  },
+  "2022_02_14-SA-MVS-Saturday-03": {
+    "service_id": "2022_02_14-SA-MVS-Saturday-03",
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 1,
+    "sunday": 0,
+    "start_date": "20220219",
+    "end_date": "20220910"
+  },
+  "2022_02_14-DX-MVS-Weekday-02": {
+    "service_id": "2022_02_14-DX-MVS-Weekday-02",
+    "monday": 1,
+    "tuesday": 1,
+    "wednesday": 1,
+    "thursday": 1,
+    "friday": 1,
+    "saturday": 0,
+    "sunday": 0,
+    "start_date": "20220214",
+    "end_date": "20220909"
+  },
+  "2022_02_14-SA19-Saturday-01": {
+    "service_id": "2022_02_14-SA19-Saturday-01",
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 1,
+    "sunday": 0,
+    "start_date": "20220219",
+    "end_date": "20220910"
+  },
+  "2022_02_14-SU19-Sunday-01": {
+    "service_id": "2022_02_14-SU19-Sunday-01",
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 0,
+    "sunday": 1,
+    "start_date": "20220220",
+    "end_date": "20220911"
+  },
+  "2022_02_14-SU20-Sunday-01": {
+    "service_id": "2022_02_14-SU20-Sunday-01",
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 0,
+    "sunday": 1,
+    "start_date": "20220220",
+    "end_date": "20220911"
+  },
+  "2022_02_14-SU-MVS-Sunday-27": {
+    "service_id": "2022_02_14-SU-MVS-Sunday-27",
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 0,
+    "sunday": 1,
+    "start_date": "20220220",
+    "end_date": "20220911"
+  },
+  "2022_02_14-DX20-Weekday-01": {
+    "service_id": "2022_02_14-DX20-Weekday-01",
+    "monday": 1,
+    "tuesday": 1,
+    "wednesday": 1,
+    "thursday": 1,
+    "friday": 1,
+    "saturday": 0,
+    "sunday": 0,
+    "start_date": "20220214",
+    "end_date": "20220909"
+  }
+}

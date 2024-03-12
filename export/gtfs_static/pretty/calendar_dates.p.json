@@ -1,0 +1,262 @@
+{
+  "2022_02_14-DX-MVS-Weekday-02": [
+    {
+      "service_id": "2022_02_14-DX-MVS-Weekday-02",
+      "date": "20220221",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-DX-MVS-Weekday-02",
+      "date": "20220530",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-DX-MVS-Weekday-02",
+      "date": "20220704",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-DX-MVS-Weekday-02",
+      "date": "20220905",
+      "exception_type": "2"
+    }
+  ],
+  "2022_02_14-SA-MVS-Saturday-03": [
+    {
+      "service_id": "2022_02_14-SA-MVS-Saturday-03",
+      "date": "20220221",
+      "exception_type": "1"
+    }
+  ],
+  "2022_02_14-SA20-Saturday-01": [
+    {
+      "service_id": "2022_02_14-SA20-Saturday-01",
+      "date": "20220221",
+      "exception_type": "1"
+    }
+  ],
+  "2022_02_14-DX20-Weekday-01": [
+    {
+      "service_id": "2022_02_14-DX20-Weekday-01",
+      "date": "20220221",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-DX20-Weekday-01",
+      "date": "20220530",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-DX20-Weekday-01",
+      "date": "20220905",
+      "exception_type": "2"
+    }
+  ],
+  "2022_02_14-SU19-Sunday-01": [
+    {
+      "service_id": "2022_02_14-SU19-Sunday-01",
+      "date": "20220530",
+      "exception_type": "1"
+    },
+    {
+      "service_id": "2022_02_14-SU19-Sunday-01",
+      "date": "20220905",
+      "exception_type": "1"
+    }
+  ],
+  "2022_02_14-SU20-Sunday-01": [
+    {
+      "service_id": "2022_02_14-SU20-Sunday-01",
+      "date": "20220530",
+      "exception_type": "1"
+    },
+    {
+      "service_id": "2022_02_14-SU20-Sunday-01",
+      "date": "20220905",
+      "exception_type": "1"
+    }
+  ],
+  "2022_02_14-SU-MVS-Sunday-27": [
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220220",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220227",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220306",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220313",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220403",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220410",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220417",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220501",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220515",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220529",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220612",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220619",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220626",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220703",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220710",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220717",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220724",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220731",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220807",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220814",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220828",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-27",
+      "date": "20220904",
+      "exception_type": "2"
+    }
+  ],
+  "2022_02_14-SU-MVS-Sunday-25": [
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-25",
+      "date": "20220320",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-25",
+      "date": "20220327",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-25",
+      "date": "20220424",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-25",
+      "date": "20220508",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-25",
+      "date": "20220522",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-25",
+      "date": "20220605",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-25",
+      "date": "20220530",
+      "exception_type": "1"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-25",
+      "date": "20220704",
+      "exception_type": "1"
+    },
+    {
+      "service_id": "2022_02_14-SU-MVS-Sunday-25",
+      "date": "20220905",
+      "exception_type": "1"
+    }
+  ],
+  "2022_02_14-DX19-Weekday-01": [
+    {
+      "service_id": "2022_02_14-DX19-Weekday-01",
+      "date": "20220221",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-DX19-Weekday-01",
+      "date": "20220530",
+      "exception_type": "2"
+    },
+    {
+      "service_id": "2022_02_14-DX19-Weekday-01",
+      "date": "20220905",
+      "exception_type": "2"
+    }
+  ],
+  "2022_02_14-SA19-Saturday-01": [
+    {
+      "service_id": "2022_02_14-SA19-Saturday-01",
+      "date": "20220221",
+      "exception_type": "1"
+    }
+  ]
+}
