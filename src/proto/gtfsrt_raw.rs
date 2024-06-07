@@ -15,9 +15,13 @@ pub fn _build_proto() -> () {
         .expect("Compile Proto brokie, why brokie :(");
 }
 
-pub async fn tripupdate() -> Result<(), Box<dyn std::error::Error>> {
+pub async fn tripupdate() -> Result<transit_realtime::FeedMessage, Box<dyn std::error::Error>> {
     let wbuf = reqwest::get("https://api.bart.gov/gtfsrt/tripupdate.aspx").await?.bytes().await?;
-    let buf = transit_realtime::FeedMessage::decode(wbuf).expect("Why are you brokie, protobuf brokie");
+    return Ok(transit_realtime::FeedMessage::decode(wbuf)?);
+}
+
+pub async fn tripupdate_json() -> Result<(), Box<dyn std::error::Error>> {
+    let buf = tripupdate().await?;
     let json = serde_json::to_string(&buf).expect("why are you brokie, serialization brokie");
     let jsonp = serde_json::to_string_pretty(&buf).expect("pretty json brokie, why are you brokie");
     println!("{jsonp}");
@@ -26,13 +30,17 @@ pub async fn tripupdate() -> Result<(), Box<dyn std::error::Error>> {
     return Ok(());
 }
 
-pub async fn alerts() -> Result<(), Box<dyn std::error::Error>> {
+pub async fn alerts() -> Result<transit_realtime::FeedMessage, Box<dyn std::error::Error>> {
     let wbuf = reqwest::get("https://api.bart.gov/gtfsrt/alerts.aspx").await?.bytes().await?;
-    let buf = transit_realtime::FeedMessage::decode(wbuf).expect("Why are you brokie, protobuf brokie");
+    return Ok(transit_realtime::FeedMessage::decode(wbuf)?);
+}
+
+pub async fn alerts_json() -> Result<(), Box<dyn std::error::Error>> {
+    let buf = alerts().await?;
     let json = serde_json::to_string(&buf).expect("why are you brokie, serialization brokie");
     let jsonp = serde_json::to_string_pretty(&buf).expect("pretty json brokie, why are you brokie");
     // println!("{json}");
-    write_to_file("./stuff/alerts.json", &json);
-    write_to_file("./stuff/alerts.p.json", &jsonp);
+    write_to_file("./export/alerts.json", &json);
+    write_to_file("./export/alerts.p.json", &jsonp);
     return Ok(());
 }
